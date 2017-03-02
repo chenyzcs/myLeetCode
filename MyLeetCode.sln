@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardRow_500", "Keyboard
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz_412", "FizzBuzz_412\FizzBuzz_412.vcxproj", "{C31E9185-7F23-409C-9379-35392946A55B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NextGreaterElementI_496", "NextGreaterElementI_496\NextGreaterElementI_496.vcxproj", "{730080B5-761E-408E-BD2A-62ECA2033CC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x64.Build.0 = Release|x64
 		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x86.ActiveCfg = Release|Win32
 		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x86.Build.0 = Release|Win32
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Debug|x64.ActiveCfg = Debug|x64
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Debug|x64.Build.0 = Debug|x64
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Debug|x86.Build.0 = Debug|Win32
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Release|x64.ActiveCfg = Release|x64
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Release|x64.Build.0 = Release|x64
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Release|x86.ActiveCfg = Release|Win32
+		{730080B5-761E-408E-BD2A-62ECA2033CC8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
