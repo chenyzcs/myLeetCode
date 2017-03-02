@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HammingDistance_461", "Hamm
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardRow_500", "KeyboardRow_500\KeyboardRow_500.vcxproj", "{0E705C8B-ACE9-4791-BF06-BAE5D12D543E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz_412", "FizzBuzz_412\FizzBuzz_412.vcxproj", "{C31E9185-7F23-409C-9379-35392946A55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0E705C8B-ACE9-4791-BF06-BAE5D12D543E}.Release|x64.Build.0 = Release|x64
 		{0E705C8B-ACE9-4791-BF06-BAE5D12D543E}.Release|x86.ActiveCfg = Release|Win32
 		{0E705C8B-ACE9-4791-BF06-BAE5D12D543E}.Release|x86.Build.0 = Release|Win32
+		{C31E9185-7F23-409C-9379-35392946A55B}.Debug|x64.ActiveCfg = Debug|x64
+		{C31E9185-7F23-409C-9379-35392946A55B}.Debug|x64.Build.0 = Debug|x64
+		{C31E9185-7F23-409C-9379-35392946A55B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C31E9185-7F23-409C-9379-35392946A55B}.Debug|x86.Build.0 = Debug|Win32
+		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x64.ActiveCfg = Release|x64
+		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x64.Build.0 = Release|x64
+		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x86.ActiveCfg = Release|Win32
+		{C31E9185-7F23-409C-9379-35392946A55B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
